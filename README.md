@@ -1,2 +1,2 @@
 # pythonbasics
-This is my fist project in Dat science Journey
+This is my first project in Data science Journey
